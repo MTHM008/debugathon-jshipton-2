@@ -23,7 +23,7 @@ def f(x):
   # evaluate f at x
   return x**3 + 4*x**2 - 10
 
-def fprime(x)
+def fprime(x):
   # evaluate f' at x
     return 3*x + 8*x
 
