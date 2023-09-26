@@ -19,7 +19,7 @@
 # When run, the code should print the iteration number, the new value
 # of x, x_new, and the value of f(x_new) at each iteration.
 
-  def f(x):
+def f(x):
   # evaluate f at x
   return x**3 + 4*x**2 - 10
 
